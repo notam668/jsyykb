@@ -481,6 +481,6 @@ html, body {
   height: 100vh;
   pointer-events: none;
   z-index: 9999;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><text x='50%' y='50%' font-size='20' fill='rgba(0,0,0,0.06)' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle' transform='rotate(-30, 100, 100)'>苏小医课表系统</text></svg>");
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><text x='50%' y='50%' font-size='20' fill='rgba(0,0,0,0.06)' font-family='sans-serif' text-anchor='middle' dominant-baseline='middle' transform='rotate(-30, 100, 100)'>江小医课表系统</text></svg>");
   background-repeat: repeat;
 }
